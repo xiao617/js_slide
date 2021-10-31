@@ -188,6 +188,14 @@ console.log(arrayMap)
 //output: [ 'Get: a', 'Get: b', 'Get: c', 'Get: d' ]
 ```
 
+--
+
+### [forEach Ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+--
+
+### [map Ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
 ---
 
 ### Arrow function & Function
